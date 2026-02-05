@@ -1,4 +1,4 @@
-<img width="636" height="234" alt="image" src="https://github.com/user-attachments/assets/629028a1-82b2-4f15-a137-1f1ce7940cd8" /># RANK-OF-A-MATRIX
+
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
